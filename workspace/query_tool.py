@@ -20,7 +20,7 @@ from query import QueryEngine
 
 # 项目路径
 PROJECT_DIR = Path("/root/.openclaw/workspace/projects/news-database")
-ARCHIVE_DIR = PROJECT_DIR / "workspace" / "crypto-news-archive" / "archive"
+ARCHIVE_DIR = PROJECT_DIR / "archive"
 DB_PATH = ARCHIVE_DIR / "news_archive.db"
 
 
@@ -251,7 +251,7 @@ def main():
     
     if args.keyword:
         print(f"🔍 关键词搜索: '{args.keyword}'")
-        items = query_engine.search_by_keyword(args.keyword, start_date, end_date)
+        items = query_engine.query_by_keyword(args.keyword, start_date, end_date)
     elif args.category:
         print(f"📁 分类查询: {args.category}")
         items = query_engine.query_by_category(args.category, start_date, end_date)

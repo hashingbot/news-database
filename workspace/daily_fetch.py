@@ -20,7 +20,7 @@ from database import create_database
 # 项目路径
 PROJECT_DIR = Path("/root/.openclaw/workspace/projects/news-database")
 LOGS_DIR = PROJECT_DIR / "logs"
-ARCHIVE_DIR = PROJECT_DIR / "workspace" / "crypto-news-archive" / "archive"
+ARCHIVE_DIR = PROJECT_DIR / "archive"
 
 
 def get_today_filename():
