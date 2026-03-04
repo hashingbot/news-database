@@ -1,0 +1,72 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-03-03 23:30",
+  "sources": {
+    "rss_feeds": {
+      "enabled": true,
+      "feeds": [
+        {
+          "name": "CoinDesk",
+          "url": "https://feeds.coindesk.com/coindesk/news",
+          "priority": 1
+        },
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/rss",
+          "priority": 2
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/feed",
+          "priority": 3
+        },
+        {
+          "name": "TheBlock",
+          "url": "https://www.theblock.co/rss.xml",
+          "priority": 4
+        }
+      ]
+    },
+    "coingecko_public": {
+      "enabled": true,
+      "base_url": "https://www.coingecko.com/en/news",
+      "note": "无需API密钥，通过网页爬取",
+      "priority": 5
+    },
+    "cryptopanic": {
+      "enabled": true,
+      "url": "https://cryptopanic.com/news/",
+      "note": "公开页面可爬取",
+      "priority": 6
+    },
+    "reddit": {
+      "enabled": true,
+      "subreddits": ["r/CryptoCurrency", "r/Bitcoin", "r/ethereum"],
+      "note": "通过PRAW或网页爬取",
+      "priority": 7
+    }
+  },
+  "crawler": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "request_delay": 2.0,
+    "max_retries": 3,
+    "respect_robots_txt": true
+  },
+  "archive": {
+    "db_path": "./archive/news_archive.db",
+    "backup_enabled": true,
+    "backup_interval_days": 7,
+    "retention_days": 1095
+  },
+  "fund_report_integration": {
+    "default_days_back": 30,
+    "categories_of_interest": [
+      "regulation",
+      "institutional",
+      "macro",
+      "market"
+    ],
+    "min_impact_score": 5,
+    "output_format": "markdown"
+  }
+}
