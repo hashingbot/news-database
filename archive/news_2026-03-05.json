@@ -1,0 +1,534 @@
+{
+  "meta": {
+    "generated_at": "2026-03-05T23:45:43.579191",
+    "date": "2026-03-05",
+    "total_items": 35,
+    "sources": [
+      "Cointelegraph",
+      "Decrypt"
+    ],
+    "stats": {
+      "rss_success": 4,
+      "rss_failed": 0,
+      "web_success": 0,
+      "web_failed": 0,
+      "total_items": 35,
+      "duplicates_filtered": 0,
+      "saved_to_db": 35
+    }
+  },
+  "summary": {
+    "total": 35,
+    "by_category": {
+      "technology": 4,
+      "institutional": 9,
+      "regulation": 12,
+      "macro": 2,
+      "market": 5,
+      "security": 3
+    },
+    "by_source": {
+      "Cointelegraph": 25,
+      "Decrypt": 10
+    },
+    "sentiment": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 9
+    },
+    "high_impact": []
+  },
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 14:35:37",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "technology",
+        "regulation",
+        "market"
+      ],
+      "primary_category": "technology",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 14:22:07",
+      "title": "Cardano can now be used to pay at 137 Spar stores across Switzerland",
+      "summary": "Supermarket giant Spar has enabled ADA payment rails for customers in 137 Swiss stores, as the country moves closer to its global crypto hub ambitions.",
+      "url": "https://cointelegraph.com/news/cardano-checkout-rails-137-swiss-spar-stores?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "institutional",
+        "market",
+        "adoption"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 14:18:50",
+      "title": "How US investigators traced $61M in crypto tied to romance scams across wallets",
+      "summary": "How investigators tracked $61 million in crypto tied to romance scams across wallets using blockchain forensics and stablecoin freezes.",
+      "url": "https://cointelegraph.com/news/how-us-investigators-traced-61m-in-crypto-tied-to-romance-scams-across-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "technology",
+        "security"
+      ],
+      "primary_category": "technology",
+      "sentiment": "negative",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 13:27:53",
+      "title": "Revolut makes second attempt at US bank charter, appoints new US CEO",
+      "summary": "Revolut’s renewed push for a US banking license follows a failed 2021 attempt, as the $75 billion fintech expands globally.",
+      "url": "https://cointelegraph.com/news/revolut-second-us-bank-charter-application-new-us-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "institutional"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "negative",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 13:17:13",
+      "title": "US Bitcoin reserve still has no plan to stack sats",
+      "summary": "One year after creating the Bitcoin reserve, the US’ BTC coffers remain much the same, as the Treasury Department hasn’t developed an acquisition strategy.",
+      "url": "https://cointelegraph.com/news/us-bitcoin-reserve-no-plan-stack-sats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "macro",
+        "technology"
+      ],
+      "primary_category": "macro",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 13:10:11",
+      "title": "NYSE owner ICE invests in OKX at $25B as tokenized stocks plan takes shape",
+      "summary": "Intercontinental Exchange will take a board seat at OKX and plans to bring NYSE-listed tokenized stocks and derivatives to the crypto exchange’s users in 2026.",
+      "url": "https://cointelegraph.com/news/nyse-intercontinental-exchange-invests-okx-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "market"
+      ],
+      "primary_category": "market",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 13:01:57",
+      "title": "Bitcoin bears 'annihilated' as analysis sees $65K support test next",
+      "summary": "Bitcoin liquidity analysis described bulls as in control after the trip to $74,000, but a support retest could take BTC price action almost $10,000 lower.",
+      "url": "https://cointelegraph.com/news/bitcoin-bears-annihilated-analysis-65k-support-test-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "market",
+        "technology"
+      ],
+      "primary_category": "market",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 12:22:11",
+      "title": "These 4 Bitcoin charts say BTC price is forming a bottom",
+      "summary": "Bitcoin’s recent pullback toward $60,000 was likely a buy-the-dip opportunity with the price set to recover, several key technical indicators suggested.",
+      "url": "https://cointelegraph.com/news/these-4-bitcoin-charts-say-btc-price-forming-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "technology",
+        "market"
+      ],
+      "primary_category": "technology",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 11:16:39",
+      "title": "UAE central bank says financial system stable amid missile and drone attacks",
+      "summary": "More than 1,800 crypto businesses operate in the UAE, with over 600 Web3 companies based in Dubai’s DMCC free zone.",
+      "url": "https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "institutional",
+        "macro"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "negative",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 11:06:05",
+      "title": "Coinbase execs face new lawsuit seeking damages, insider profit clawbacks",
+      "summary": "The lawsuit seeks damages for Coinbase, governance reforms and the return of compensation and profits allegedly earned by insiders amid the company’s compliance failures.",
+      "url": "https://cointelegraph.com/news/coinbase-execs-derivative-lawsuit-compliance-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 10:46:50",
+      "title": "Reform UK tops donations with millions from Thailand-based crypto investor: Report",
+      "summary": "Nigel Farage’s Reform UK reportedly secured a second boost of 3 million British pounds ($4 million) from Thailand-based crypto investor Christopher Harborne",
+      "url": "https://cointelegraph.com/news/farage-reform-uk-tops-donations-offshore-crypto-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 09:44:04",
+      "title": "Stablecoin inflows rebound to $1.7B as Washington battles over yield rules",
+      "summary": "Messari said weekly stablecoin inflows rose 414% to $1.7 billion as debate over yield-bearing stablecoins continued to stall US crypto market structure talks.",
+      "url": "https://cointelegraph.com/news/stablecoin-inflows-rebound-to-1-7b-as-washington-battles-over-yield-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "market",
+        "institutional",
+        "macro"
+      ],
+      "primary_category": "market",
+      "sentiment": "negative",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 08:17:28",
+      "title": "Bitcoin ETFs pull in $462M as BTC briefly tops $73K",
+      "summary": "BlackRock’s IBIT led inflows with $307 million as almost all US spot Bitcoin ETFs recorded inflows on Wednesday, extending a three-day inflow streak totaling $1.1 billion.",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-462-million-inflows-btc-surge-73k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "institutional",
+        "technology"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 07:47:39",
+      "title": "Anthropic reopens Pentagon talks as tech groups push Trump to drop risk tag: FT",
+      "summary": "Anthropic previously secured a $200 million Pentagon contract, and its AI has been used in classified operations, including support for US airstrikes on Iran, the Financial Times reports.",
+      "url": "https://cointelegraph.com/news/anthropic-reopens-pentagon-talks-trump-supply-chain-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "market"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 06:28:01",
+      "title": "Crypto stocks rally as Trump, regulators signal pro-crypto policy shift",
+      "summary": "Bitcoin has jumped as well, increasing 7.6% in the last 24 hours, while Ether is up more than 8.3% to trade at $2,132.",
+      "url": "https://cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "technology",
+        "market"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "positive",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 06:17:42",
+      "title": "Google uncovers iOS exploit kit used in crypto phishing attacks",
+      "summary": "Researchers say fake crypto websites deployed an iOS exploit kit capable of stealing wallet seed phrases and other financial data.",
+      "url": "https://cointelegraph.com/news/google-warns-crypto-scams-using-new-and-powerful-iphone-exploit-kit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "security"
+      ],
+      "primary_category": "security",
+      "sentiment": "negative",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 06:15:13",
+      "title": "Altcoin chatter sinks to 2-year low as Bitcoin holds attention",
+      "summary": "While altcoin interest on social media is at its lowest in 24 months, it could pick up again once Bitcoin’s rally starts to fade, according to crypto trader Michaël van de Poppe.",
+      "url": "https://cointelegraph.com/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "technology",
+        "market"
+      ],
+      "primary_category": "technology",
+      "sentiment": "positive",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 05:02:08",
+      "title": "A16z eyes 5th crypto fund as some peers look to new tech: Report",
+      "summary": "The crypto venture giant has launched a fifth fund with plans to close by mid-2026, according to sources.",
+      "url": "https://cointelegraph.com/news/a16z-eyes-5th-crypto-fund-as-peers-look-new-tech-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "institutional"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 04:48:09",
+      "title": "Bitwise has now donated over $380K to open-source Bitcoin devs",
+      "summary": "Bitwise has tasked Bitcoin Brink, OpenSats and the Human Rights Foundation with deciding where to allocate its second annual donation to support Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitwise-second-donation-bitcoin-devs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "technology",
+        "market"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 04:45:07",
+      "title": "Tether invests in AI sleep tracking firm at a $1.5B valuation",
+      "summary": "The stablecoin issuer led a $50 million funding round for Eight Sleep as the companies explore AI-driven health monitoring and sleep optimization.",
+      "url": "https://cointelegraph.com/news/tether-invests-in-1-5b-ai-sleep-tracking-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "institutional",
+        "regulation"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 04:21:27",
+      "title": "Europol, FBI wipe major cybercrime forum LeakBase off the web",
+      "summary": "LeakBase followed RaidForums, a cybercrime marketplace seized by authorities in 2022 that once hosted leaked data from Ledger users.",
+      "url": "https://cointelegraph.com/news/europol-fbi-leakbase-cybercrime-shut-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "institutional",
+        "market"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 03:40:03",
+      "title": "Coinbase, Microsoft and Europol take down phishing service ‘Tycoon 2FA’",
+      "summary": "Tycoon 2FA accounted for 62% of phishing attempts Microsoft blocked by mid last year, including over 30 million emails in a single month.",
+      "url": "https://cointelegraph.com/news/coinbase-microsoft-and-europol-take-down-phishing-service-tycoon-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "security"
+      ],
+      "primary_category": "security",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 03:20:24",
+      "title": "Big Tech signs Trump pledge to cover their own AI energy costs",
+      "summary": "US President Donald Trump says AI data centers “need some PR help,” promising that tech giants will pay for their own power to run the energy-intensive projects.",
+      "url": "https://cointelegraph.com/news/big-tech-signs-trump-pledge-to-cover-their-own-ai-energy-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "market"
+      ],
+      "primary_category": "market",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 03:15:56",
+      "title": "Zerohash joins surging list of crypto firms vying for a bank charter",
+      "summary": "Several crypto companies have secured OCC conditional approval for a banking charter since the GENIUS Act was passed in July, including Circle, Ripple, Bridge and Stripe.",
+      "url": "https://cointelegraph.com/news/zerohash-applies-us-national-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "regulation",
+        "institutional",
+        "technology"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "negative",
+      "impact_score": 7
+    },
+    {
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05 01:51:45",
+      "title": "Star Trek’s Captain Kirk shows off X Money as limited beta goes live",
+      "summary": "Screenshots posted by William Shatner reveal cashback rewards, yield on deposits and FDIC-insured accounts for Musk’s new payment platform.",
+      "url": "https://cointelegraph.com/news/elon-musk-taps-captain-kirk-for-x-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "categories": [
+        "macro",
+        "adoption"
+      ],
+      "primary_category": "macro",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 15:33:08",
+      "title": "Core Scientific Secures Up to $1 Billion From Morgan Stanley for Pivot From Bitcoin Mining to AI",
+      "summary": "The firm continues to pivot away from Bitcoin mining.",
+      "url": "https://decrypt.co/360117/core-scientifics-secures-1-billion-morgan-stanley-pivot-bitcoin-ai",
+      "categories": [
+        "regulation",
+        "technology"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 14:28:38",
+      "title": "Morning Minute: Kraken Cracks the Fed",
+      "summary": "Kraken made crypto history yesterday, receiving federal banking access that's been sought after by the industry for years.",
+      "url": "https://decrypt.co/360098/morning-minute-kraken-cracks-the-fed",
+      "categories": [
+        "regulation",
+        "institutional",
+        "macro"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "negative",
+      "impact_score": 7
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 14:20:32",
+      "title": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation",
+      "summary": "The New York Stock Exchange’s parent company has invested in crypto exchange OKX as part of a push into tokenized stocks.",
+      "url": "https://decrypt.co/360101/okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation",
+      "categories": [
+        "market"
+      ],
+      "primary_category": "market",
+      "sentiment": "positive",
+      "impact_score": 5
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 12:44:35",
+      "title": "Ethereum ETFs Draw In $169M, Highest Level in Two Months",
+      "summary": "Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.",
+      "url": "https://decrypt.co/360097/ethereum-etfs-draw-in-169m-highest-level-in-two-months",
+      "categories": [
+        "institutional",
+        "technology",
+        "market"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 11:44:53",
+      "title": "FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk",
+      "summary": "The Financial Action Task Force wants issuers to embed freeze and deny-list controls directly into smart contracts.",
+      "url": "https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk",
+      "categories": [
+        "regulation",
+        "institutional",
+        "technology"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 05:42:14",
+      "title": "Senator Flags White House 'Corruption' Concerns Over Iran War Predictions Markets",
+      "summary": "The senator has slammed predictions markets betting on war in the Middle East, accusing White House officials of corruption.",
+      "url": "https://decrypt.co/360079/senator-white-house-corruption-iran-war-predictions-markets",
+      "categories": [
+        "institutional",
+        "market"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 5
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 04:34:58",
+      "title": "Canadian Robbed of Crypto via ATM Kiosk, Recovery Efforts Lead to Another Scam Attempt",
+      "summary": "Police say scammers used RCMP branding to target a Nanaimo victim in a crypto recovery scheme after an earlier fraud.",
+      "url": "https://decrypt.co/360072/canadian-robbed-via-atm-kiosk-recovery-lead-another-scam",
+      "categories": [
+        "security"
+      ],
+      "primary_category": "security",
+      "sentiment": "negative",
+      "impact_score": 5
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 03:37:46",
+      "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
+      "summary": "Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI agreed to fund electricity supply and grid upgrades as AI energy demands spike.",
+      "url": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
+      "categories": [
+        "institutional",
+        "technology"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 6
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 01:02:06",
+      "title": "How Policy Shifts, Geopolitical Tensions Are Reshaping the Bitcoin Trade",
+      "summary": "Fresh ETF inflows, policy momentum and a deeper integration with the financial system are beginning to shift sentiment, analysts say.",
+      "url": "https://decrypt.co/360056/policy-shifts-geopolitical-tensions-reshaping-bitcoin-trade",
+      "categories": [
+        "institutional",
+        "regulation",
+        "technology"
+      ],
+      "primary_category": "institutional",
+      "sentiment": "neutral",
+      "impact_score": 7
+    },
+    {
+      "source": "Decrypt",
+      "published_at": "2026-03-05 00:51:41",
+      "title": "Inside the Ray-Ban Smart Glasses Controversy Plaguing Meta",
+      "summary": "An investigation into Meta’s smart glasses has ignited concerns from regulators and privacy advocates over the use of sensitive footage.",
+      "url": "https://decrypt.co/360048/ray-ban-smart-glasses-controversy-meta",
+      "categories": [
+        "regulation"
+      ],
+      "primary_category": "regulation",
+      "sentiment": "negative",
+      "impact_score": 7
+    }
+  ]
+}
